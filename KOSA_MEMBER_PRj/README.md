@@ -1,4 +1,4 @@
-#KOSA MEMBER 관리 게시판 웹 페이지 구현 프로젝트
+# KOSA MEMBER 관리 게시판 웹 페이지 구현 프로젝트
 JAVA, SpringFrameWork, OracleSQL 사용
 2021.08 진행
 - 협회의 교육생을 관리를 보다 효율적으로 하고자 교육생 관리프로그램 설계
