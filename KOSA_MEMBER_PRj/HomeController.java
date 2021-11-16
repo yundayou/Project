@@ -1,4 +1,4 @@
-package com.kosa.myapp;
+package com.team5.myapp;
 
 import java.text.DateFormat;
 import java.util.Date;
